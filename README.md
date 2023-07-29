@@ -13,7 +13,11 @@ $ npm i --save @fortawesome/react-fontawesome
 ## Command to use this project
 ## First Download its zip file and then run command 
 
+
+TO INSTALL NPM SERVER-
 $ npm install
+
+TO START NPM SERVER-
 $ npm start 
 
 ##FEATURES
