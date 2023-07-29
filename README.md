@@ -20,7 +20,7 @@ $ npm install
 TO START NPM SERVER-
 $ npm start 
 
-##FEATURES
+## FEATURES
 
 Edit tasks: Update task details such as title, description, or due date.
 Delete tasks: Remove tasks from your list when they're no longer needed.
